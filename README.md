@@ -28,7 +28,7 @@ Claude API · Gemini · OpenAI · prompt engineering
 | [indecopi-resolutions-scraper](https://github.com/Spencer2105/indecopi-resolutions-scraper) | Scrapes and downloads INDECOPI (Peru) administrative resolutions | Python, Playwright |
 | [workana-job-notifier](https://github.com/Spencer2105/workana-job-notifier) | Telegram bot that filters Workana job listings by profile match using LLMs | Python, Telegram API |
 | [anpd-analytics](https://github.com/Spencer2105/anpd-analytics) | Interactive dashboard for ANPD (Peru data protection authority) sanctions | React, Recharts, Gemini |
-| [Sistema-de-gestion-de-penalidades-y-quebrantos](https://github.com/Spencer2105/Sistema-de-gestion-de-penalidades-y-quebrantos) | Multi-module web app for tracking financial penalties and losses | Google Apps Script |
+| [financial-incident-tracker](https://github.com/Spencer2105/financial-incident-tracker) | Web app for tracking financial penalties and losses — architecture demo (BBVA internship) | Google Apps Script |
 | [proforma-mayorista](https://github.com/Spencer2105/proforma-mayorista) | Multi-tenant SaaS for generating and sending digital quotations | Next.js, Supabase |
 
 ---
